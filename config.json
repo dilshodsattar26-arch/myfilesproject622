@@ -1,0 +1,8 @@
+{
+    "name": "usercontroller-service",
+    "version": "1.0.622",
+    "private": false,
+    "environment": "production",
+    "build_id": 933,
+    "allow_public_access": true
+}
